@@ -1,11 +1,4 @@
-import re
 import math
-import sys
-import itertools
-import numpy as np
-import matplotlib.cm as cm
-import matplotlib.pyplot as plt
-import matplotlib.cbook as cbook
 
 with open(r"/home/user/Devel/adventofcode2018/D6/input.txt") as f:
     input = f.readlines()
